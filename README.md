@@ -17,10 +17,10 @@
 *** 
 
 ### Sweet intro
-I am a handsome young man who initially wanted to build a website and in process fall in love with it. 
-
-- 🔭 I’m currently working on challenges  
-- 🌱 I’m currently learning form The Complete 2022 Web Development Bootcamp by @angelabauer on Udemy 
+- I am a handsome young man who initially wanted to build a website and in process fall in love with it. 
+---
+- 🔭 I’m currently working on completing challenges.
+- 🌱 I’m currently learning form <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2022 Web Development Bootcamp</a> by @angelabauer on Udemy 
 - 📫 How to reach me: twitter and join #100DaysOfCode challenge 
 
 ***
@@ -44,17 +44,6 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
- 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-
-
-</p>
 
 
 

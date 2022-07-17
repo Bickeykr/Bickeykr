@@ -1,6 +1,6 @@
 
 # Hey there👋, I’m 
-![An aspiring full stack Web Developer](https://github.com/Bickeykr/Bickeykr/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true)
+![An aspiring full stack Web Developer](https://github.com/Bickeykr/Bickeykr/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 
 *** 
 

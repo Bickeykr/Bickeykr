@@ -1,6 +1,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/Bickeykr)  
 ![An aspiring full stack Web Developer](https://github.com/Bickeykr/Bickeykr/blob/main/GitHub%20banner.png?raw=true)
+<table style="width:100%">
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+</table>
 
 *** 
 

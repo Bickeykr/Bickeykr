@@ -3,9 +3,9 @@
 ![An aspiring full stack Web Developer](https://github.com/Bickeykr/Bickeykr/blob/main/GitHub%20banner.png?raw=true)
 <table style="width:100%">
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>### Let's connect : <a href="https://twitter.com/@Bickey_kr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="auto" width="30"/></a></td>
+    <td>### Let's connect : <a href="https://twitter.com/@Bickey_kr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="auto" width="30"/></a></td>
+    <td>### Let's connect : <a href="https://twitter.com/@Bickey_kr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="auto" width="30"/></a></td>
   </tr>
 </table>
 
@@ -37,7 +37,7 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 
 
 ### view work : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bickeykr)  
-### Let's connect : <a href="https://twitter.com/@Bickey_kr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="auto" width="30"/></a>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bickey-kumar-117565219/)  

@@ -48,7 +48,7 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 
 for stats and skills | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.js / Express.js / APIs / git / github / canva / figma | Content from cell 2
 Content in the first column | Content in the second column
 
 

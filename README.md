@@ -8,7 +8,9 @@
     <td> Let's connect : <a href="https://www.linkedin.com/in/bickey-kumar-117565219/" target="_blank">
             <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="auto" width="30"/>
           </a></td>
-    <td> View Work : <a href="https://github.com/Bickeykr" target="_blank"> <i class="devicon-github-original"></i></a></td>
+    <td> View Work : <a href="https://github.com/Bickeykr" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          </a></td>
   </tr>
 </table>
 

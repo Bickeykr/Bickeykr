@@ -46,7 +46,6 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
  
 for stats and skills | Second Header
 ------------ | -------------
-
 JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.js / Express.js / APIs / git / github / canva / figma | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats)
 
  

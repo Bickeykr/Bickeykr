@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<h1>👩🏻‍💻 Hi, I’m Catherine</h1> 
-<h2> An aspiring full stack Web Developer </h2>  
+#Hey there, I’m Bickey 
+##An aspiring full stack Web Developer   
    
 
 - 🍃 I love creating new things   

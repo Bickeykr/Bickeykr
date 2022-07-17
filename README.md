@@ -24,7 +24,7 @@
 - 📫 I am in the middle of #100DaysOfCode challenge reach me on [twitter](https://twitter.com/Bickey_kr) and join me. 
 
 ***
-
+<!-- 
 ### Languages & Tools I am familiar with
 for stats and skills | Second Header
 ------------ | -------------
@@ -40,6 +40,9 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/> </p>
 
 ***
+
+| <a href="https://github.com/Bickeykr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bickeykr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
  
  <table>
   <tr>
@@ -48,11 +51,14 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/> </p> </td>
-    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)]
-      (https://github.com/anuraghazra/github-readme-stats) </td>
-   </tr>
+   
+   </tr>    
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ 
  
 for stats and skills | Second Header
 ------------ | -------------
@@ -66,3 +72,4 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
  
 
 
+ -->

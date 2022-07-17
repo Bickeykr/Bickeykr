@@ -1,23 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Bickeykr/Bickeykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1>👩🏻‍💻 Hi, I’m Catherine</h1> 
-<h2>An aspiring full stack Web Developer </h2>  
+<h2> An aspiring full stack Web Developer </h2>  
    
 
 - 🍃 I love creating new things   
@@ -37,7 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)" alt="me on twitter" height="auto" width="30"/></a></p>
+<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" src=" 
+            https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg
+          " alt="me on twitter" height="auto" width="30"/></a></p>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />

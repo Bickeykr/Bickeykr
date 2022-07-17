@@ -1,12 +1,4 @@
 
-#Hey there, I’m Bickey 
-##An aspiring full stack Web Developer   
-   
-
-- 🍃 I love creating new things   
-- 📖 I’m currently mastering JavaScript/React.js   
-- 🌸 I enjoy some CSS and HTML as well!  
-
 
 <h3>Languages & Tools I am familiar with</h3>
 
@@ -33,7 +25,8 @@
 
 I am a handsome young man who initially wanted to build a website and in process fall in love with it. 
 
-Skills: JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.js / Express.js / APIs / git / github /
+### Skills
+JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.js / Express.js / APIs / git / github /
 
 - 🔭 I’m currently working on challenges  
 - 🌱 I’m currently learning form The Complete 2022 Web Development Bootcamp by @angelabauer on Udemy 

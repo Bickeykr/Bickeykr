@@ -1,4 +1,5 @@
 
+![Profile views](https://gpvc.arturio.dev/Bickeykr)  
 ![An aspiring full stack Web Developer](https://github.com/Bickeykr/Bickeykr/blob/main/GitHub%20banner.png?raw=true)
 
 *** 
@@ -32,7 +33,6 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Bickeykr)  
 
 
 

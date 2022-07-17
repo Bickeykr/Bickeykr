@@ -17,10 +17,9 @@
 *** 
 
 ### Sweet intro
-- I am a handsome young man who initially wanted to build a website and in process fall in love with it. 
----
+- 🙋I am a handsome young man who initially wanted to build a website and in process fall in love with it. 
 - 🔭 I’m currently working on completing challenges.
-- 🌱 I’m currently learning form <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2022 Web Development Bootcamp</a> by @angelabauer on Udemy 
+- 🌱 I’m currently learning <a ref="ttps://www.w3schools.com/whatis/whatis_fullstack.asp#:~:text=A%20full%20stack%20web%20developer,ASP%2C%20Python%2C%20or%20Node)">Full stack web developement </a> form <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2022 Web Development Bootcamp</a> by[@angelabauer](https://github.com/angelabauer) Udemy.
 - 📫 How to reach me: twitter and join #100DaysOfCode challenge 
 
 ***

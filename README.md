@@ -21,7 +21,8 @@
 </p>
 
 <h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" alt="me on twitter" height="auto" width="30"/></a></p>
+<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me on twitter" height="auto" width="30"/></a>
+</p>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->
 

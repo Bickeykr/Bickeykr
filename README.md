@@ -52,8 +52,7 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 
 </p>
 
-<h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me on twitter" height="auto" width="30"/></a>
+# Let's Connect: <p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me on twitter" height="auto" width="30"/></a>
 </p>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->

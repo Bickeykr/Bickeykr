@@ -25,8 +25,12 @@
 ***
 
 ### Languages & Tools I am familiar with
+for stats and skills | Second Header
+------------ | -------------
 
-JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.js / Express.js / APIs / git / github /
+JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.js / Express.js / APIs / git / github / canva / figma | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>

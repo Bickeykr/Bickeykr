@@ -39,14 +39,7 @@ JS / jQuery / HTML / CSS / VS code / Unix Command Line / Bootstrap / EJS / node.
 </p>
 
 ***
-
-
-### view work : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bickeykr)  
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bickey-kumar-117565219/)  
-### Say hi : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Bickey_kr)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr)](https://github.com/anuraghazra/github-readme-stats)
 

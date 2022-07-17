@@ -9,7 +9,7 @@
             <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="auto" width="30"/>
           </a></td>
     <td> View Work : <a href="https://github.com/Bickeykr" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+           <img align="center" src="https://github.com/Bickeykr/Bickeykr/blob/main/github.png?raw=true" alt="Github" height="auto" width="30"/>
           </a></td>
   </tr>
 </table>

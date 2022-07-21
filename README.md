@@ -34,5 +34,5 @@ Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) b
   
 *** 
  ### PROJECTS
- - New Letter SingUp Application [here](https://vast-escarpment-75982.herokuapp.com/)
+ - News Letter SingUp Web Application [here](https://vast-escarpment-75982.herokuapp.com/)
 

@@ -34,5 +34,7 @@ Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) b
   
 *** 
  ### PROJECTS
- - News Letter SingUp Web Application [here](https://vast-escarpment-75982.herokuapp.com/)
+ - A personal portfolio website I made once but has not been update from some time : [here](https://bickeykr.github.io/MySite/)
+ - A Dummy CV site I made sometime ago : [here](https://bickeykr.github.io/CV/)
+ - A personal News Letter SingUp Web Application : [here](https://vast-escarpment-75982.herokuapp.com/)
 

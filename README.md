@@ -34,8 +34,19 @@ Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) b
 
   
 *** 
- ### PROJECTS
- - A personal portfolio website I made once but has not been update from some time : [here](https://bickeykr.github.io/MySite/)
- - A Dummy CV site I made sometime ago : [here](https://bickeykr.github.io/CV/)
- - A personal News Letter SingUp Web Application : [here](https://vast-escarpment-75982.herokuapp.com/)
+ ### PROJECTS (ordered by recent first)
+ - A **Todo Application** with a built-in database deployed on Heroku and database connection by MongoDB Atlas here: [here](https://fierce-ocean-00362.herokuapp.com/)
+
+    <details>
+    <summary> We can do 3 things using this <b> Todo Application </b></summary><br>
+ 
+      - [ ] Can add new tasks 
+      - [ ] Can delete completed tasks 
+      - [ ] Create a custom list and perform above action.
+ 
+    </details>
+ - A **personal News Letter SingUp Web Application** : [here](https://vast-escarpment-75982.herokuapp.com/)
+ - A **personal portfolio website** I made once but has not been update from some time : [here](https://bickeykr.github.io/MySite/)
+ - A **Dummy CV site** I made sometime ago : [here](https://bickeykr.github.io/CV/)
+
 

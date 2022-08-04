@@ -35,7 +35,7 @@ Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) b
   
 *** 
  ### PROJECTS (ordered by recent first)
- - A **Todo Application** with a built-in database deployed on Heroku and database connection by MongoDB Atlas here: [here](https://fierce-ocean-00362.herokuapp.com/)
+ - A **Todo Application** with a built-in database deployed on Heroku and database connection by MongoDB Atlas: [here](https://fierce-ocean-00362.herokuapp.com/)
 
     <details>
     <summary> We can do 3 things using this <b> Todo Application </b></summary><br>

@@ -29,7 +29,7 @@ Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) b
 ### TECH STACK
 
 
-| <p align="left"> JS / JQUERY / HTML / CSS / VS CODE / UNIX COMMAND LINE / BOOTSTRAP / EJS / APIS /  <br> NODE JS / EXPRESS JS / GIT / GITHUB / CANVA / FIGMA </p> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr&theme=dark&hide_border=true" /> |
+| <p align="left"> JS / JQUERY / HTML / CSS / VS CODE / UNIX COMMAND LINE / BOOTSTRAP / EJS / APIS /  <br> NODE JS / EXPRESS JS / GIT / GITHUB / CANVA / FIGMA / NPM /  REST / DATABASES / SQL / MongoDB / Mongoose </p> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeykr&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
 
   

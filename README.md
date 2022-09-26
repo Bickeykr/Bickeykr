@@ -24,6 +24,7 @@
 - 🌱 I’m currently learning [Full stack web developement](https://www.w3schools.com/whatis/whatis_fullstack.asp#:~:text=A%20full%20stack%20web%20developer,ASP%2C%20Python%2C%20or%20Node) form [The Complete 2022 Web Development
 Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by [@angelabauer](https://github.com/angelabauer) on Udemy.
 - 📫 I am in the middle of #100DaysOfCode challenge reach me on [twitter](https://twitter.com/Bickey_kr) and join me.
+- My codesandbox profile [here](https://codesandbox.io/u/Bickeykr)
 
 ***
 ### TECH STACK

@@ -25,6 +25,7 @@
 Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by [@angelabauer](https://github.com/angelabauer) on Udemy.
 - 📫 I am in the middle of #100DaysOfCode challenge reach me on [twitter](https://twitter.com/Bickey_kr) and join me.
 - My codesandbox profile [here](https://codesandbox.io/u/Bickeykr)
+- I am on **LinkedIn** : [here](https://www.linkedin.com/in/bickey-kumar-117565219/)
 
 ***
 ### TECH STACK
